@@ -1,0 +1,37 @@
+2025/04/30 17:02:18 Starting Email Cron Service...
+2025/04/30 17:02:18 Cron job started. Waiting...
+2025/04/30 17:09:30 Starting Email Cron Service...
+2025/04/30 17:09:30 Cron job started. Waiting...
+2025/04/30 17:10:30 Running job at Wed, 30 Apr 2025 17:10:30 WAT
+2025/04/30 17:10:30 Failed to send email: 421 Local Error, closing transmission channel
+2025/04/30 17:11:30 Running job at Wed, 30 Apr 2025 17:11:30 WAT
+2025/04/30 17:11:36 Failed to send email: 421 Local Error, closing transmission channel
+2025/04/30 17:12:30 Running job at Wed, 30 Apr 2025 17:12:30 WAT
+2025/04/30 17:12:33 Failed to send email: 421 Local Error, closing transmission channel
+2025/04/30 17:13:30 Running job at Wed, 30 Apr 2025 17:13:30 WAT
+2025/04/30 17:13:30 Failed to send email: 421 Local Error, closing transmission channel
+2025/04/30 17:14:30 Running job at Wed, 30 Apr 2025 17:14:30 WAT
+2025/04/30 17:14:30 Failed to send email: 421 Local Error, closing transmission channel
+2025/04/30 17:15:30 Running job at Wed, 30 Apr 2025 17:15:30 WAT
+2025/04/30 17:15:30 Failed to send email: 421 Local Error, closing transmission channel
+2025/04/30 17:16:03 Starting Email Cron Service...
+2025/04/30 17:16:03 Cron job started. Waiting...
+2025/04/30 17:16:13 === sendEmail() triggered ===
+2025/04/30 17:16:13 Running job at Wed, 30 Apr 2025 17:16:13 WAT
+2025/04/30 17:16:13 Failed to send email: 421 Local Error, closing transmission channel
+2025/04/30 17:16:23 === sendEmail() triggered ===
+2025/04/30 17:16:23 Running job at Wed, 30 Apr 2025 17:16:23 WAT
+2025/04/30 17:16:23 Failed to send email: 421 Local Error, closing transmission channel
+2025/04/30 17:16:33 === sendEmail() triggered ===
+2025/04/30 17:16:33 Running job at Wed, 30 Apr 2025 17:16:33 WAT
+2025/04/30 17:16:33 Failed to send email: 421 Local Error, closing transmission channel
+2025/04/30 17:16:43 === sendEmail() triggered ===
+2025/04/30 17:16:43 Running job at Wed, 30 Apr 2025 17:16:43 WAT
+2025/04/30 17:16:43 Failed to send email: 421 Local Error, closing transmission channel
+2025/04/30 17:16:53 === sendEmail() triggered ===
+2025/04/30 17:16:53 Running job at Wed, 30 Apr 2025 17:16:53 WAT
+2025/04/30 17:16:53 Failed to send email: 421 Local Error, closing transmission channel
+2025/04/30 17:17:03 === sendEmail() triggered ===
+2025/04/30 17:17:03 Running job at Wed, 30 Apr 2025 17:17:03 WAT
+2025/04/30 17:17:13 === sendEmail() triggered ===
+2025/04/30 17:17:13 Running job at Wed, 30 Apr 2025 17:17:13 WAT
