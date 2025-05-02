@@ -13,7 +13,7 @@ import (
 
 func main() {
 	// Load .env file
-	err := godotenv.Load()
+	err := godotenv.Load("./utils/.env")
 	if err != nil {
 		log.Println("Error loading .env file:", err)
 		return
@@ -33,7 +33,7 @@ func main() {
 	// Create cron scheduler
 	c := cron.New()
 
-	_, err = c.AddFunc("@every 5m", sendEmail) // Runs every 5 minutes
+	_, err = c.AddFunc("@every 3s", sendEmail) // Runs every 5 minutes
 	if err != nil {
 		log.Println("Error scheduling job:", err)
 		return
@@ -46,20 +46,20 @@ func main() {
 }
 
 func sendEmail() {
-	log.Println("=== sendEmail() triggered ===")
+	log.Println("=== sendEmail() triggered === to", "ayo@pre.game")
 	log.Println("Running at:", time.Now().Format(time.RFC1123))
 
 	// Email config from environment
 	from := os.Getenv("EMAIL_USERNAME")
 	password := os.Getenv("EMAIL_PASSWORD")
-	to := []string{"akinwumikaliyanu@gmail.com"}
+	to := []string{"ayo@pre.game"}
 	subject := "Assignment done and dusted!"
 	body := "Hi, here is my assignment - an automated email sent using a cron job in Go. Let me know when you see it."
 
 	// Create SMTP server instance
 	smtp := utils.SmtpServer{
 		Host:     "smtp.gmail.com",
-		Port:     587,
+		Port:     465,
 		Username: from,
 		Password: password,
 	}
