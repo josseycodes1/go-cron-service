@@ -59,7 +59,7 @@ func sendEmail() {
 	// Create SMTP server instance
 	smtp := utils.SmtpServer{
 		Host:     "smtp.gmail.com",
-		Port:     587,
+		Port:     465,
 		Username: from,
 		Password: password,
 	}
