@@ -43,3 +43,179 @@
 2025/04/30 17:17:43 Running job at Wed, 30 Apr 2025 17:17:43 WAT
 2025/04/30 17:17:53 === sendEmail() triggered ===
 2025/04/30 17:17:53 Running job at Wed, 30 Apr 2025 17:17:53 WAT
+2025/04/30 17:18:03 === sendEmail() triggered ===
+2025/04/30 17:18:03 Running job at Wed, 30 Apr 2025 17:18:03 WAT
+2025/04/30 17:18:13 === sendEmail() triggered ===
+2025/04/30 17:18:13 Running job at Wed, 30 Apr 2025 17:18:13 WAT
+2025/04/30 17:18:23 === sendEmail() triggered ===
+2025/04/30 17:18:23 Running job at Wed, 30 Apr 2025 17:18:23 WAT
+2025/04/30 17:23:27 Starting Email Cron Service...
+2025/04/30 17:23:27 Cron job started. Waiting...
+2025/04/30 17:23:37 === sendEmail() triggered ===
+2025/04/30 17:23:37 Running job at Wed, 30 Apr 2025 17:23:37 WAT
+2025/04/30 17:23:42 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/04/30 17:23:47 === sendEmail() triggered ===
+2025/04/30 17:23:47 Running job at Wed, 30 Apr 2025 17:23:47 WAT
+2025/04/30 17:23:47 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/04/30 17:23:57 === sendEmail() triggered ===
+2025/04/30 17:23:57 Running job at Wed, 30 Apr 2025 17:23:57 WAT
+2025/04/30 17:23:57 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/04/30 17:24:07 === sendEmail() triggered ===
+2025/04/30 17:24:07 Running job at Wed, 30 Apr 2025 17:24:07 WAT
+2025/04/30 17:24:07 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/04/30 17:24:17 === sendEmail() triggered ===
+2025/04/30 17:24:17 Running job at Wed, 30 Apr 2025 17:24:17 WAT
+2025/04/30 17:24:17 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/04/30 17:24:27 === sendEmail() triggered ===
+2025/04/30 17:24:27 Running job at Wed, 30 Apr 2025 17:24:27 WAT
+2025/04/30 17:24:37 === sendEmail() triggered ===
+2025/04/30 17:24:37 Running job at Wed, 30 Apr 2025 17:24:37 WAT
+2025/04/30 17:24:37 Failed to send email: dial tcp 209.85.203.109:587: i/o timeout
+2025/04/30 17:24:47 === sendEmail() triggered ===
+2025/04/30 17:24:47 Running job at Wed, 30 Apr 2025 17:24:47 WAT
+2025/04/30 17:24:47 Failed to send email: dial tcp 209.85.203.109:587: i/o timeout
+2025/04/30 17:33:44 Starting Email Cron Service...
+2025/04/30 17:33:44 Cron job started. Waiting...
+2025/04/30 17:38:44 === sendEmail() triggered ===
+2025/04/30 17:38:44 Running job at Wed, 30 Apr 2025 17:38:44 WAT
+2025/04/30 17:38:44 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/04/30 17:43:44 === sendEmail() triggered ===
+2025/04/30 17:43:44 Running job at Wed, 30 Apr 2025 17:43:44 WAT
+2025/04/30 17:43:49 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/04/30 17:48:44 === sendEmail() triggered ===
+2025/04/30 17:48:44 Running job at Wed, 30 Apr 2025 17:48:44 WAT
+2025/04/30 17:48:44 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/04/30 17:53:44 === sendEmail() triggered ===
+2025/04/30 17:53:44 Running job at Wed, 30 Apr 2025 17:53:44 WAT
+2025/04/30 17:53:49 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/04/30 17:58:44 === sendEmail() triggered ===
+2025/04/30 17:58:44 Running job at Wed, 30 Apr 2025 17:58:44 WAT
+2025/04/30 17:58:44 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/04/30 18:03:44 === sendEmail() triggered ===
+2025/04/30 18:03:44 Running job at Wed, 30 Apr 2025 18:03:44 WAT
+2025/04/30 18:03:44 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 11:52:48 Starting Email Cron Service...
+2025/05/01 11:52:48 Cron job started. Waiting...
+2025/05/01 11:57:48 === sendEmail() triggered ===
+2025/05/01 11:57:48 Running job at Thu, 01 May 2025 11:57:48 WAT
+2025/05/01 11:57:53 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 12:02:48 === sendEmail() triggered ===
+2025/05/01 12:02:48 Running job at Thu, 01 May 2025 12:02:48 WAT
+2025/05/01 12:02:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 12:07:48 === sendEmail() triggered ===
+2025/05/01 12:07:48 Running job at Thu, 01 May 2025 12:07:48 WAT
+2025/05/01 12:07:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 12:12:48 === sendEmail() triggered ===
+2025/05/01 12:12:48 Running job at Thu, 01 May 2025 12:12:48 WAT
+2025/05/01 12:12:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 12:17:48 === sendEmail() triggered ===
+2025/05/01 12:17:48 Running job at Thu, 01 May 2025 12:17:48 WAT
+2025/05/01 12:17:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 12:22:48 === sendEmail() triggered ===
+2025/05/01 12:22:48 Running job at Thu, 01 May 2025 12:22:48 WAT
+2025/05/01 12:22:53 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 12:27:48 === sendEmail() triggered ===
+2025/05/01 12:27:48 Running job at Thu, 01 May 2025 12:27:48 WAT
+2025/05/01 12:27:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 12:32:48 === sendEmail() triggered ===
+2025/05/01 12:32:48 Running job at Thu, 01 May 2025 12:32:48 WAT
+2025/05/01 12:32:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 12:37:48 === sendEmail() triggered ===
+2025/05/01 12:37:48 Running job at Thu, 01 May 2025 12:37:48 WAT
+2025/05/01 12:37:53 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 12:42:48 === sendEmail() triggered ===
+2025/05/01 12:42:48 Running job at Thu, 01 May 2025 12:42:48 WAT
+2025/05/01 12:42:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 12:47:48 === sendEmail() triggered ===
+2025/05/01 12:47:48 Running job at Thu, 01 May 2025 12:47:48 WAT
+2025/05/01 12:47:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 12:52:48 === sendEmail() triggered ===
+2025/05/01 12:52:48 Running job at Thu, 01 May 2025 12:52:48 WAT
+2025/05/01 12:52:53 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 12:57:48 === sendEmail() triggered ===
+2025/05/01 12:57:48 Running job at Thu, 01 May 2025 12:57:48 WAT
+2025/05/01 12:57:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 13:02:48 === sendEmail() triggered ===
+2025/05/01 13:02:48 Running job at Thu, 01 May 2025 13:02:48 WAT
+2025/05/01 13:02:53 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 13:07:48 === sendEmail() triggered ===
+2025/05/01 13:07:48 Running job at Thu, 01 May 2025 13:07:48 WAT
+2025/05/01 13:07:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 13:12:48 === sendEmail() triggered ===
+2025/05/01 13:12:48 Running job at Thu, 01 May 2025 13:12:48 WAT
+2025/05/01 13:12:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 13:17:48 === sendEmail() triggered ===
+2025/05/01 13:17:48 Running job at Thu, 01 May 2025 13:17:48 WAT
+2025/05/01 13:17:53 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 13:22:48 === sendEmail() triggered ===
+2025/05/01 13:22:48 Running job at Thu, 01 May 2025 13:22:48 WAT
+2025/05/01 13:22:49 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 13:27:48 === sendEmail() triggered ===
+2025/05/01 13:27:48 Running job at Thu, 01 May 2025 13:27:48 WAT
+2025/05/01 13:27:53 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 13:32:48 === sendEmail() triggered ===
+2025/05/01 13:32:48 Running job at Thu, 01 May 2025 13:32:48 WAT
+2025/05/01 13:32:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 13:37:48 === sendEmail() triggered ===
+2025/05/01 13:37:48 Running job at Thu, 01 May 2025 13:37:48 WAT
+2025/05/01 13:37:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 13:42:48 === sendEmail() triggered ===
+2025/05/01 13:42:48 Running job at Thu, 01 May 2025 13:42:48 WAT
+2025/05/01 13:42:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 13:47:48 === sendEmail() triggered ===
+2025/05/01 13:47:48 Running job at Thu, 01 May 2025 13:47:48 WAT
+2025/05/01 13:47:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 13:52:48 === sendEmail() triggered ===
+2025/05/01 13:52:48 Running job at Thu, 01 May 2025 13:52:48 WAT
+2025/05/01 13:52:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 13:57:48 === sendEmail() triggered ===
+2025/05/01 13:57:48 Running job at Thu, 01 May 2025 13:57:48 WAT
+2025/05/01 13:57:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 14:02:48 === sendEmail() triggered ===
+2025/05/01 14:02:48 Running job at Thu, 01 May 2025 14:02:48 WAT
+2025/05/01 14:02:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 14:07:48 === sendEmail() triggered ===
+2025/05/01 14:07:48 Running job at Thu, 01 May 2025 14:07:48 WAT
+2025/05/01 14:07:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 14:12:48 === sendEmail() triggered ===
+2025/05/01 14:12:48 Running job at Thu, 01 May 2025 14:12:48 WAT
+2025/05/01 14:12:53 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 14:17:48 === sendEmail() triggered ===
+2025/05/01 14:17:48 Running job at Thu, 01 May 2025 14:17:48 WAT
+2025/05/01 14:17:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 14:22:48 === sendEmail() triggered ===
+2025/05/01 14:22:48 Running job at Thu, 01 May 2025 14:22:48 WAT
+2025/05/01 14:22:53 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 14:27:48 === sendEmail() triggered ===
+2025/05/01 14:27:48 Running job at Thu, 01 May 2025 14:27:48 WAT
+2025/05/01 14:27:53 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 14:32:48 === sendEmail() triggered ===
+2025/05/01 14:32:48 Running job at Thu, 01 May 2025 14:32:48 WAT
+2025/05/01 14:32:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 14:37:48 === sendEmail() triggered ===
+2025/05/01 14:37:48 Running job at Thu, 01 May 2025 14:37:48 WAT
+2025/05/01 14:37:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 14:42:48 === sendEmail() triggered ===
+2025/05/01 14:42:48 Running job at Thu, 01 May 2025 14:42:48 WAT
+2025/05/01 14:42:53 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 14:47:48 === sendEmail() triggered ===
+2025/05/01 14:47:48 Running job at Thu, 01 May 2025 14:47:48 WAT
+2025/05/01 14:47:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 14:52:48 === sendEmail() triggered ===
+2025/05/01 14:52:48 Running job at Thu, 01 May 2025 14:52:48 WAT
+2025/05/01 14:52:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 14:57:48 === sendEmail() triggered ===
+2025/05/01 14:57:48 Running job at Thu, 01 May 2025 14:57:48 WAT
+2025/05/01 14:57:53 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 15:02:48 === sendEmail() triggered ===
+2025/05/01 15:02:48 Running job at Thu, 01 May 2025 15:02:48 WAT
+2025/05/01 15:02:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/01 15:07:48 === sendEmail() triggered ===
+2025/05/01 15:07:48 Running job at Thu, 01 May 2025 15:07:48 WAT
+2025/05/01 15:07:48 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/02 13:13:23 Starting Email Cron Service...
+2025/05/02 13:13:23 Cron job started. Waiting...
+2025/05/02 13:18:23 === sendEmail() triggered ===
+2025/05/02 13:18:23 Running at: Fri, 02 May 2025 13:18:23 WAT
+2025/05/02 13:18:28 INFO Failed to send email error="gomail: could not send email 1: 421 Local Error, closing transmission channel"
+2025/05/02 13:18:28 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel

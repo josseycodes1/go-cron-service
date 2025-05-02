@@ -1,20 +1,28 @@
 package main
 
 import (
-	"fmt"
 	"log"
-	"net/smtp"
 	"os"
 	"time"
 
+	"email-cron-service/utils"
+
+	"github.com/joho/godotenv"
 	"github.com/robfig/cron/v3"
 )
 
 func main() {
-	// create a log file
+	// Load .env file
+	err := godotenv.Load()
+	if err != nil {
+		log.Println("Error loading .env file:", err)
+		return
+	}
+
+	// Set up logging
 	logFile, err := os.OpenFile("cron.log", os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0666)
 	if err != nil {
-		fmt.Println("Error creating log file:", err)
+		log.Println("Error creating log file:", err)
 		return
 	}
 	defer logFile.Close()
@@ -22,9 +30,10 @@ func main() {
 
 	log.Println("Starting Email Cron Service...")
 
-	// setup cron
+	// Create cron scheduler
 	c := cron.New()
-	_, err = c.AddFunc("@every 10s", sendEmail)
+
+	_, err = c.AddFunc("@every 5m", sendEmail) // Runs every 5 minutes
 	if err != nil {
 		log.Println("Error scheduling job:", err)
 		return
@@ -33,37 +42,32 @@ func main() {
 	c.Start()
 	log.Println("Cron job started. Waiting...")
 
-	// keep the cron service running
-	select {}
+	select {} // Keeps the program running
 }
 
 func sendEmail() {
 	log.Println("=== sendEmail() triggered ===")
-	log.Println("Running job at", time.Now().Format(time.RFC1123))
+	log.Println("Running at:", time.Now().Format(time.RFC1123))
 
-	// sender email
-	from := "adewumijosephine1@gmail.com"
-	password := "nvivlcpkyzpbxnpm"
-
-	// receiver email
-	to := "akinwumikaliyanu@gmail.com"
+	// Email config from environment
+	from := os.Getenv("EMAIL_USERNAME")
+	password := os.Getenv("EMAIL_PASSWORD")
+	to := []string{"akinwumikaliyanu@gmail.com"}
 	subject := "Assignment done and dusted!"
 	body := "Hi, here is my assignment - an automated email sent using a cron job in Go. Let me know when you see it."
 
-	message := []byte("Subject: " + subject + "\r\n\r\n" + body)
+	// Create SMTP server instance
+	smtp := utils.SmtpServer{
+		Host:     "smtp.gmail.com",
+		Port:     587,
+		Username: from,
+		Password: password,
+	}
 
-	// SMTP server config
-	smtpHost := "smtp.gmail.com"
-	smtpPort := "587"
-
-	// auth
-	auth := smtp.PlainAuth("", from, password, smtpHost)
-
-	// s email
-	err := smtp.SendMail(smtpHost+":"+smtpPort, auth, from, []string{to}, message)
+	err := smtp.SendMail(to, from, subject, []byte(body))
 	if err != nil {
 		log.Println("Failed to send email:", err)
 	} else {
-		log.Println("Email successfully sent to", to)
+		log.Println("Email sent successfully to:", to)
 	}
 }
