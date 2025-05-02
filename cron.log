@@ -219,3 +219,418 @@
 2025/05/02 13:18:23 Running at: Fri, 02 May 2025 13:18:23 WAT
 2025/05/02 13:18:28 INFO Failed to send email error="gomail: could not send email 1: 421 Local Error, closing transmission channel"
 2025/05/02 13:18:28 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/02 16:00:35 Starting Email Cron Service...
+2025/05/02 16:00:35 Cron job started. Waiting...
+2025/05/02 16:01:04 Starting Email Cron Service...
+2025/05/02 16:01:04 Cron job started. Waiting...
+2025/05/02 16:01:07 === sendEmail() triggered ===
+2025/05/02 16:01:07 Running at: Fri, 02 May 2025 16:01:07 WAT
+2025/05/02 16:01:07 INFO Failed to send email error="gomail: could not send email 1: 421 Local Error, closing transmission channel"
+2025/05/02 16:01:07 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/02 16:01:10 === sendEmail() triggered ===
+2025/05/02 16:01:10 Running at: Fri, 02 May 2025 16:01:10 WAT
+2025/05/02 16:01:10 INFO Failed to send email error="gomail: could not send email 1: 421 Local Error, closing transmission channel"
+2025/05/02 16:01:10 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/02 16:01:13 === sendEmail() triggered ===
+2025/05/02 16:01:13 Running at: Fri, 02 May 2025 16:01:13 WAT
+2025/05/02 16:01:13 INFO Failed to send email error="gomail: could not send email 1: 421 Local Error, closing transmission channel"
+2025/05/02 16:01:13 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/02 16:01:16 === sendEmail() triggered ===
+2025/05/02 16:01:16 Running at: Fri, 02 May 2025 16:01:16 WAT
+2025/05/02 16:01:16 INFO Failed to send email error="gomail: could not send email 1: 421 Local Error, closing transmission channel"
+2025/05/02 16:01:16 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/02 16:01:19 === sendEmail() triggered ===
+2025/05/02 16:01:19 Running at: Fri, 02 May 2025 16:01:19 WAT
+2025/05/02 16:01:19 INFO Failed to send email error="gomail: could not send email 1: 421 Local Error, closing transmission channel"
+2025/05/02 16:01:19 Failed to send email: gomail: could not send email 1: 421 Local Error, closing transmission channel
+2025/05/02 16:01:22 === sendEmail() triggered ===
+2025/05/02 16:01:22 Running at: Fri, 02 May 2025 16:01:22 WAT
+2025/05/02 16:01:25 === sendEmail() triggered ===
+2025/05/02 16:01:25 Running at: Fri, 02 May 2025 16:01:25 WAT
+2025/05/02 16:01:28 === sendEmail() triggered ===
+2025/05/02 16:01:28 Running at: Fri, 02 May 2025 16:01:28 WAT
+2025/05/02 16:01:31 === sendEmail() triggered ===
+2025/05/02 16:01:31 Running at: Fri, 02 May 2025 16:01:31 WAT
+2025/05/02 16:01:32 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:01:32 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:01:34 === sendEmail() triggered ===
+2025/05/02 16:01:34 Running at: Fri, 02 May 2025 16:01:34 WAT
+2025/05/02 16:01:35 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:01:35 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:01:37 === sendEmail() triggered ===
+2025/05/02 16:01:37 Running at: Fri, 02 May 2025 16:01:37 WAT
+2025/05/02 16:01:38 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:01:38 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:01:40 === sendEmail() triggered ===
+2025/05/02 16:01:40 Running at: Fri, 02 May 2025 16:01:40 WAT
+2025/05/02 16:01:41 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:01:41 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:01:43 === sendEmail() triggered ===
+2025/05/02 16:01:43 Running at: Fri, 02 May 2025 16:01:43 WAT
+2025/05/02 16:01:44 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:01:44 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:01:46 === sendEmail() triggered ===
+2025/05/02 16:01:46 Running at: Fri, 02 May 2025 16:01:46 WAT
+2025/05/02 16:01:47 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:01:47 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:01:49 === sendEmail() triggered ===
+2025/05/02 16:01:49 Running at: Fri, 02 May 2025 16:01:49 WAT
+2025/05/02 16:01:50 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:01:50 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:01:52 === sendEmail() triggered ===
+2025/05/02 16:01:52 Running at: Fri, 02 May 2025 16:01:52 WAT
+2025/05/02 16:01:53 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:01:53 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:01:55 === sendEmail() triggered ===
+2025/05/02 16:01:55 Running at: Fri, 02 May 2025 16:01:55 WAT
+2025/05/02 16:01:56 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:01:56 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:01:58 === sendEmail() triggered ===
+2025/05/02 16:01:58 Running at: Fri, 02 May 2025 16:01:58 WAT
+2025/05/02 16:01:59 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:01:59 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:02:01 === sendEmail() triggered ===
+2025/05/02 16:02:01 Running at: Fri, 02 May 2025 16:02:01 WAT
+2025/05/02 16:02:02 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:02:02 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:02:04 === sendEmail() triggered ===
+2025/05/02 16:02:04 Running at: Fri, 02 May 2025 16:02:04 WAT
+2025/05/02 16:02:05 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:02:05 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:02:07 === sendEmail() triggered ===
+2025/05/02 16:02:07 Running at: Fri, 02 May 2025 16:02:07 WAT
+2025/05/02 16:02:08 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:02:08 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:03:03 Starting Email Cron Service...
+2025/05/02 16:03:03 Cron job started. Waiting...
+2025/05/02 16:03:06 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:06 Running at: Fri, 02 May 2025 16:03:06 WAT
+2025/05/02 16:03:09 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:09 Running at: Fri, 02 May 2025 16:03:09 WAT
+2025/05/02 16:03:12 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:12 Running at: Fri, 02 May 2025 16:03:12 WAT
+2025/05/02 16:03:15 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:15 Running at: Fri, 02 May 2025 16:03:15 WAT
+2025/05/02 16:03:16 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:03:16 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:03:18 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:18 Running at: Fri, 02 May 2025 16:03:18 WAT
+2025/05/02 16:03:19 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:03:19 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:03:21 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:21 Running at: Fri, 02 May 2025 16:03:21 WAT
+2025/05/02 16:03:22 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:03:22 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:03:24 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:24 Running at: Fri, 02 May 2025 16:03:24 WAT
+2025/05/02 16:03:25 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:03:25 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:03:27 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:27 Running at: Fri, 02 May 2025 16:03:27 WAT
+2025/05/02 16:03:28 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:03:28 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:03:30 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:30 Running at: Fri, 02 May 2025 16:03:30 WAT
+2025/05/02 16:03:31 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:03:31 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:03:33 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:33 Running at: Fri, 02 May 2025 16:03:33 WAT
+2025/05/02 16:03:34 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:03:34 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:03:36 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:36 Running at: Fri, 02 May 2025 16:03:36 WAT
+2025/05/02 16:03:37 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:03:37 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:03:39 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:39 Running at: Fri, 02 May 2025 16:03:39 WAT
+2025/05/02 16:03:40 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:03:40 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:03:42 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:42 Running at: Fri, 02 May 2025 16:03:42 WAT
+2025/05/02 16:03:43 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:03:43 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:03:45 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:45 Running at: Fri, 02 May 2025 16:03:45 WAT
+2025/05/02 16:03:46 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:03:46 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:03:48 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:48 Running at: Fri, 02 May 2025 16:03:48 WAT
+2025/05/02 16:03:49 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:03:49 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:03:51 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:51 Running at: Fri, 02 May 2025 16:03:51 WAT
+2025/05/02 16:03:52 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:03:52 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:03:54 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:54 Running at: Fri, 02 May 2025 16:03:54 WAT
+2025/05/02 16:03:55 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:03:55 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:03:57 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:03:57 Running at: Fri, 02 May 2025 16:03:57 WAT
+2025/05/02 16:03:58 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:03:58 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:04:00 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:00 Running at: Fri, 02 May 2025 16:04:00 WAT
+2025/05/02 16:04:01 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:04:01 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:04:03 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:03 Running at: Fri, 02 May 2025 16:04:03 WAT
+2025/05/02 16:04:04 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:04:04 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:04:06 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:06 Running at: Fri, 02 May 2025 16:04:06 WAT
+2025/05/02 16:04:07 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:04:07 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:04:09 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:09 Running at: Fri, 02 May 2025 16:04:09 WAT
+2025/05/02 16:04:10 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:04:10 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:04:12 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:12 Running at: Fri, 02 May 2025 16:04:12 WAT
+2025/05/02 16:04:13 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:04:13 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:04:15 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:15 Running at: Fri, 02 May 2025 16:04:15 WAT
+2025/05/02 16:04:16 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:04:16 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:04:18 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:18 Running at: Fri, 02 May 2025 16:04:18 WAT
+2025/05/02 16:04:19 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:04:19 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:04:21 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:21 Running at: Fri, 02 May 2025 16:04:21 WAT
+2025/05/02 16:04:22 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:04:22 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:04:24 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:24 Running at: Fri, 02 May 2025 16:04:24 WAT
+2025/05/02 16:04:25 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:04:25 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:04:27 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:27 Running at: Fri, 02 May 2025 16:04:27 WAT
+2025/05/02 16:04:28 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:04:28 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:04:30 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:30 Running at: Fri, 02 May 2025 16:04:30 WAT
+2025/05/02 16:04:31 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:04:31 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:04:33 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:33 Running at: Fri, 02 May 2025 16:04:33 WAT
+2025/05/02 16:04:34 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:04:34 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:04:36 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:36 Running at: Fri, 02 May 2025 16:04:36 WAT
+2025/05/02 16:04:37 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:04:37 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:04:39 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:39 Running at: Fri, 02 May 2025 16:04:39 WAT
+2025/05/02 16:04:40 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:04:40 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:04:42 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:42 Running at: Fri, 02 May 2025 16:04:42 WAT
+2025/05/02 16:04:45 Starting Email Cron Service...
+2025/05/02 16:04:45 Cron job started. Waiting...
+2025/05/02 16:04:48 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:48 Running at: Fri, 02 May 2025 16:04:48 WAT
+2025/05/02 16:04:51 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:51 Running at: Fri, 02 May 2025 16:04:51 WAT
+2025/05/02 16:04:54 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:54 Running at: Fri, 02 May 2025 16:04:54 WAT
+2025/05/02 16:04:57 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:04:57 Running at: Fri, 02 May 2025 16:04:57 WAT
+2025/05/02 16:04:58 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:04:58 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:00 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:00 Running at: Fri, 02 May 2025 16:05:00 WAT
+2025/05/02 16:05:01 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:01 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:03 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:03 Running at: Fri, 02 May 2025 16:05:03 WAT
+2025/05/02 16:05:04 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:04 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:06 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:06 Running at: Fri, 02 May 2025 16:05:06 WAT
+2025/05/02 16:05:07 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:07 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:09 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:09 Running at: Fri, 02 May 2025 16:05:09 WAT
+2025/05/02 16:05:10 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:10 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:12 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:12 Running at: Fri, 02 May 2025 16:05:12 WAT
+2025/05/02 16:05:13 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:13 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:15 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:15 Running at: Fri, 02 May 2025 16:05:15 WAT
+2025/05/02 16:05:16 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:16 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:18 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:18 Running at: Fri, 02 May 2025 16:05:18 WAT
+2025/05/02 16:05:19 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:19 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:21 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:21 Running at: Fri, 02 May 2025 16:05:21 WAT
+2025/05/02 16:05:22 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:22 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:24 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:24 Running at: Fri, 02 May 2025 16:05:24 WAT
+2025/05/02 16:05:25 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:25 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:27 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:27 Running at: Fri, 02 May 2025 16:05:27 WAT
+2025/05/02 16:05:28 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:28 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:30 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:30 Running at: Fri, 02 May 2025 16:05:30 WAT
+2025/05/02 16:05:31 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:31 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:33 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:33 Running at: Fri, 02 May 2025 16:05:33 WAT
+2025/05/02 16:05:34 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:34 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:36 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:36 Running at: Fri, 02 May 2025 16:05:36 WAT
+2025/05/02 16:05:37 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:37 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:39 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:39 Running at: Fri, 02 May 2025 16:05:39 WAT
+2025/05/02 16:05:40 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:40 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:42 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:42 Running at: Fri, 02 May 2025 16:05:42 WAT
+2025/05/02 16:05:43 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:43 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:45 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:45 Running at: Fri, 02 May 2025 16:05:45 WAT
+2025/05/02 16:05:46 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:46 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:48 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:48 Running at: Fri, 02 May 2025 16:05:48 WAT
+2025/05/02 16:05:49 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:49 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:51 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:51 Running at: Fri, 02 May 2025 16:05:51 WAT
+2025/05/02 16:05:52 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:52 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:54 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:54 Running at: Fri, 02 May 2025 16:05:54 WAT
+2025/05/02 16:05:55 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:55 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:05:57 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:05:57 Running at: Fri, 02 May 2025 16:05:57 WAT
+2025/05/02 16:05:58 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:05:58 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:06:00 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:00 Running at: Fri, 02 May 2025 16:06:00 WAT
+2025/05/02 16:06:01 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:06:01 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:06:03 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:03 Running at: Fri, 02 May 2025 16:06:03 WAT
+2025/05/02 16:06:04 INFO Failed to send email error="dial tcp 209.85.203.108:587: i/o timeout"
+2025/05/02 16:06:04 Failed to send email: dial tcp 209.85.203.108:587: i/o timeout
+2025/05/02 16:06:07 Starting Email Cron Service...
+2025/05/02 16:06:07 Cron job started. Waiting...
+2025/05/02 16:06:10 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:10 Running at: Fri, 02 May 2025 16:06:10 WAT
+2025/05/02 16:06:13 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:13 Running at: Fri, 02 May 2025 16:06:13 WAT
+2025/05/02 16:06:13 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:06:15 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:06:16 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:16 Running at: Fri, 02 May 2025 16:06:16 WAT
+2025/05/02 16:06:18 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:06:19 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:19 Running at: Fri, 02 May 2025 16:06:19 WAT
+2025/05/02 16:06:21 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:06:22 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:22 Running at: Fri, 02 May 2025 16:06:22 WAT
+2025/05/02 16:06:24 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:06:25 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:25 Running at: Fri, 02 May 2025 16:06:25 WAT
+2025/05/02 16:06:27 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:06:28 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:28 Running at: Fri, 02 May 2025 16:06:28 WAT
+2025/05/02 16:06:30 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:06:31 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:31 Running at: Fri, 02 May 2025 16:06:31 WAT
+2025/05/02 16:06:33 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:06:34 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:34 Running at: Fri, 02 May 2025 16:06:34 WAT
+2025/05/02 16:06:36 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:06:37 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:37 Running at: Fri, 02 May 2025 16:06:37 WAT
+2025/05/02 16:06:39 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:06:40 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:40 Running at: Fri, 02 May 2025 16:06:40 WAT
+2025/05/02 16:06:42 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:06:43 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:43 Running at: Fri, 02 May 2025 16:06:43 WAT
+2025/05/02 16:06:45 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:06:46 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:46 Running at: Fri, 02 May 2025 16:06:46 WAT
+2025/05/02 16:06:48 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:06:49 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:49 Running at: Fri, 02 May 2025 16:06:49 WAT
+2025/05/02 16:06:51 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:06:52 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:52 Running at: Fri, 02 May 2025 16:06:52 WAT
+2025/05/02 16:06:54 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:06:55 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:55 Running at: Fri, 02 May 2025 16:06:55 WAT
+2025/05/02 16:06:57 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:06:58 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:06:58 Running at: Fri, 02 May 2025 16:06:58 WAT
+2025/05/02 16:07:00 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:07:01 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:07:01 Running at: Fri, 02 May 2025 16:07:01 WAT
+2025/05/02 16:07:04 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:07:04 Running at: Fri, 02 May 2025 16:07:04 WAT
+2025/05/02 16:07:04 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:07:06 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:07:07 === sendEmail() triggered === to %v ayo@pre.game
+2025/05/02 16:07:07 Running at: Fri, 02 May 2025 16:07:07 WAT
+2025/05/02 16:08:20 Starting Email Cron Service...
+2025/05/02 16:08:20 Cron job started. Waiting...
+2025/05/02 16:08:23 === sendEmail() triggered === to ayo@pre.game
+2025/05/02 16:08:23 Running at: Fri, 02 May 2025 16:08:23 WAT
+2025/05/02 16:08:25 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:08:26 === sendEmail() triggered === to ayo@pre.game
+2025/05/02 16:08:26 Running at: Fri, 02 May 2025 16:08:26 WAT
+2025/05/02 16:08:28 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:08:29 === sendEmail() triggered === to ayo@pre.game
+2025/05/02 16:08:29 Running at: Fri, 02 May 2025 16:08:29 WAT
+2025/05/02 16:08:31 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:08:32 === sendEmail() triggered === to ayo@pre.game
+2025/05/02 16:08:32 Running at: Fri, 02 May 2025 16:08:32 WAT
+2025/05/02 16:08:34 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:08:35 === sendEmail() triggered === to ayo@pre.game
+2025/05/02 16:08:35 Running at: Fri, 02 May 2025 16:08:35 WAT
+2025/05/02 16:08:37 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:08:38 === sendEmail() triggered === to ayo@pre.game
+2025/05/02 16:08:38 Running at: Fri, 02 May 2025 16:08:38 WAT
+2025/05/02 16:08:40 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:08:41 === sendEmail() triggered === to ayo@pre.game
+2025/05/02 16:08:41 Running at: Fri, 02 May 2025 16:08:41 WAT
+2025/05/02 16:08:43 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:08:44 === sendEmail() triggered === to ayo@pre.game
+2025/05/02 16:08:44 Running at: Fri, 02 May 2025 16:08:44 WAT
+2025/05/02 16:08:46 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:08:47 === sendEmail() triggered === to ayo@pre.game
+2025/05/02 16:08:47 Running at: Fri, 02 May 2025 16:08:47 WAT
+2025/05/02 16:08:49 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:08:50 === sendEmail() triggered === to ayo@pre.game
+2025/05/02 16:08:50 Running at: Fri, 02 May 2025 16:08:50 WAT
+2025/05/02 16:08:52 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:08:53 === sendEmail() triggered === to ayo@pre.game
+2025/05/02 16:08:53 Running at: Fri, 02 May 2025 16:08:53 WAT
+2025/05/02 16:08:55 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:08:56 === sendEmail() triggered === to ayo@pre.game
+2025/05/02 16:08:56 Running at: Fri, 02 May 2025 16:08:56 WAT
+2025/05/02 16:08:58 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:08:59 === sendEmail() triggered === to ayo@pre.game
+2025/05/02 16:08:59 Running at: Fri, 02 May 2025 16:08:59 WAT
+2025/05/02 16:09:02 === sendEmail() triggered === to ayo@pre.game
+2025/05/02 16:09:02 Running at: Fri, 02 May 2025 16:09:02 WAT
+2025/05/02 16:09:02 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:09:04 Email sent successfully to: [ayo@pre.game]
+2025/05/02 16:09:05 === sendEmail() triggered === to ayo@pre.game
+2025/05/02 16:09:05 Running at: Fri, 02 May 2025 16:09:05 WAT
